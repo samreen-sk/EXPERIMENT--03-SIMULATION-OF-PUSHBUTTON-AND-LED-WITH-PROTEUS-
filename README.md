@@ -301,7 +301,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 ![OFF](https://github.com/user-attachments/assets/c42de216-b83a-4c70-86ec-4d1fc4dcc0b8)
 
 ### LED ON
-![ON](https://github.com/user-attachments/assets/52f45d51-3b0d-4075-8dad-3f698ba16101)
+
+![LED-ON](https://github.com/user-attachments/assets/5351d706-626c-4527-a490-78e0c404b434)
 
 
 ## Proteus layout(Add pdf screen shot of circuit here)
